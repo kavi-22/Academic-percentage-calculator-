@@ -35,7 +35,7 @@ A simple and responsive web application that allows users to calculate their aca
 
 ## 🚀 Live Demo
 
-[🔗 View Live Project](https://github.com/kavi-22/Academic-percentage-calculator-/)
+[🔗 View Live Project](https://kavi-22.github.io/Academic-percentage-calculator-/)
 
 ---
 ## 📁 Project Structure
