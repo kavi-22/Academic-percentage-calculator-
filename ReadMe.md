@@ -35,16 +35,9 @@ A simple and responsive web application that allows users to calculate their aca
 
 ## 🚀 Live Demo
 
-[🔗 View Live Project](https://your-live-project-link.netlify.app)
+[🔗 View Live Project](https://github.com/kavi-22/Academic-percentage-calculator-/)
 
 ---
-
-## 🧪 Screenshot
-
-![Calculator Preview](screenshot.png)
-
----
-
 ## 📁 Project Structure
 
 ```bash
